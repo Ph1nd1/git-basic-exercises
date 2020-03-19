@@ -1,0 +1,487 @@
+    1  ls
+    2  mkdir workspace
+    3  cd workspace
+    4  touch README.md
+    5  ls
+    6  cp README.md CHANGELOG.md
+    7  ls
+    8  touch exercise.md
+    9  ls
+   10  mv exercise.md /tmp
+   11  ls
+   12  cd /tmp
+   13  ls
+   14  cd home
+   15  cd /home
+   16  ls
+   17  cd recruit
+   18  cd workspace
+   19  rm /tmp/exersice.md
+   20  rm /tmp/exercise.md
+   21  touch linuxtask
+   22  nano linuxtask
+   23  ls
+   24  rm linuxtask
+   25  touch linuxtask.sh
+   26  nano linuxtask.sh
+   27  pwd
+   28  cd recruit
+   29  cd /recruit
+   30  cd recruit
+   31  cd /home/recruit
+   32  pwd
+   33  clear
+   34  pwd
+   35  clear
+   36  ls
+   37  pwd
+   38  cd workspace
+   39  nano linuxtask
+   40  nano linuxtask.sh
+   41  ls
+   42  cd /home/recruit/documents
+   43  find documents
+   44  cd /recruit
+   45  cd recruit
+   46  cd /home/recruit
+   47  cd Documents/
+   48  ls
+   49  nano linuxtask.sh
+   50  ls
+   51  clear
+   52  cd recruit/
+   53  cd /home/recruit
+   54  cd workspace
+   55  nano linuxtask.sh
+   56  git status
+   57  sudo apt install git
+   58  git status
+   59  git config --global user.email "[pzmkhize@gmail.com]"
+   60  git log
+   61  git status
+   62  git init
+   63  git init linuxtask.md
+   64  ls
+   65  mv linuxtask.sh lunixtask.md
+   66  ls
+   67  cd linuxtask.md
+   68  ls
+   69  cd workspace
+   70  cd /home/recruit/workspace
+   71  ls
+   72  nano linuxtask.sh
+   73  ls
+   74  nano linuxtask.sh
+   75  ls
+   76  clear
+   77  git status
+   78  find linuxtask.sh
+   79  cd /home/recruit
+   80  git status
+   81  clear
+   82  git status
+   83  sudo apt-get install git
+   84  git config --global user.name "ph1nd1"
+   85  mkdir linuxchalllinuxchallenge
+   86  ls
+   87  rm linuxchalllinuxchallenge/
+   88  rmdir linuxchalllinuxchallenge/
+   89  ls
+   90  mkdir linuxchallenge
+   91  cd linuxchallenge/
+   92  echo "# linuxchallenge" >> README.md
+   93  ls
+   94  git init
+   95  git add README.md
+   96  git commit -m "first commit"
+   97  git remote add origin https://github.com/Ph1nd1/linuxchallenge.git
+   98  git push -u origin master
+   99  touch linuxtask.sh
+  100  nano linuxtask.sh 
+  101  git push -u origin master
+  102  ls
+  103  git status
+  104  git add .
+  105  git push -u origin master
+  106  git status
+  107  nano linuxtask.sh
+  108  ls
+  109  git status
+  110  cd /home/recruit
+  111  cd ..
+  112  ls
+  113  cd recruit
+  114  ls
+  115  git add linuxchallenge/
+  116  ls -la
+  117  git init
+  118  git add linuxchallenge/
+  119  git status
+  120  git commit -m "Second commit"
+  121  git remote add origin https://github.com/Ph1nd1/linuxchallenge.git
+  122  git push -u origin master
+  123  ls
+  124  cd workspace/
+  125  ls
+  126  rmdir linuxtask.md/
+  127  touch umuzi.md
+  128  touch recruits.md
+  129  touch cohort.md
+  130  clear
+  131  ls
+  132  cd linuxchallenge/
+  133  ls
+  134  nano l
+  135  nano linuxtask.sh 
+  136  mv linuxtask.sh /workspace
+  137  ls
+  138  cd workspace
+  139  ls
+  140  nano umuzi.md 
+  141  nano cohort.md 
+  142  nano recruits.md 
+  143  touch uu.md oo.md
+  144  ls
+  145  rm oo.md 
+  146  rm uu.md
+  147  ls
+  148  clear
+  149  ls
+  150  cat umuzi.md 
+  151  cat >> umuzi.md 
+  152  cat umuzi.md 
+  153  cat cohort.md 
+  154  cat > cohort.md 
+  155  cat cohort.md 
+  156  cat umuzi.md cohort.md recruits.md 
+  157  cat umuzi.md cohort.md recruits.md > summary.md
+  158  ls
+  159  cat >> summary.md 
+  160  cat summary.md 
+  161  locate umuzi
+  162  cat locate umuzi > search_result.md
+  163  cat > summary.md 
+  164  cat summary.md 
+  165  cat > summary.md 
+  166  cat summary.md 
+  167  ls
+  168  cat search_result.md 
+  169  rm search_result.md 
+  170  clear
+  171  locate umuzi
+  172  cat > search_result.md
+  173  cat search_result.md 
+  174  echo "locate umuzi" >> search_result.md 
+  175  cat search_result.md 
+  176  locate umuzi echo >> search_result.md 
+  177  cat search_result.md 
+  178  locate umuzi -n 5 echo > search_result.md 
+  179  cat search_result.md 
+  180  locate -i -e umuzi echo > search_result.md 
+  181  cat search_result.md 
+  182  locate umuzi -n 5 echo > search_result.md 
+  183  cat search_result.md 
+  184  locate umuzi cat > search_result.md 
+  185  cat search_result.md 
+  186  locate umuzi -n 5 echo > search_result.md 
+  187  clear
+  188  cat search_result.md 
+  189  cd recruit
+  190  cd ..
+  191  ls
+  192  cd documents
+  193  clear
+  194  ls
+  195  cd Documents/
+  196  cd ..
+  197  cd workspace/
+  198  ls
+  199  cat > ..Documents/pad.md
+  200  cd ..
+  201  cd Documents/
+  202  cat > pad.md
+  203  cd ..
+  204  cd Desktop/
+  205  touch work
+  206  ls
+  207  touch work/
+  208  rm work
+  209  ls
+  210  mrdir work
+  211  mkdir work
+  212  ls
+  213  clear
+  214  nano try.sh
+  215  chmod 0700 try.sh 
+  216  ./try.sh 
+  217  nano try1.sh
+  218  ./try1.sh 
+  219  cd ..
+  220  ls
+  221  cd workspace/
+  222  ls
+  223  nan
+  224  ./umuzi.md
+  225  chmod 0700 umuzi.md 
+  226  ./umuzi.md 
+  227  clear
+  228  ls
+  229  rm search_result.md 
+  230  nano locateumuzi.sh
+  231  chmod 0700 locateumuzi.sh 
+  232  ./locateumuzi.sh 
+  233  cat ./locateumuzi.sh > search_result.md
+  234  cat search_result.md 
+  235  nano 2locateumuzi.sh
+  236  chmod 0700 2locateumuzi.sh 
+  237  ./2locateumuzi.sh 
+  238  cat search_result.md 
+  239  ls
+  240  cat search_result.md 
+  241  cat 2locateumuzi.sh 
+  242  cd ..
+  243  cd Desktop/
+  244  ls
+  245  rm try1.sh 
+  246  rm try.sh 
+  247  ls
+  248  cp /home/recruit/Documents/pad.md pad_copy.md
+  249  ls
+  250  locate updatedb
+  251  cd -
+  252  locate pad_copy.md
+  253  sudo updatedb
+  254  locate pad_copy.md
+  255  nano searchpdf.sh
+  256  ls
+  257  locate .pdf
+  258  locate "*.pdf"
+  259  nano searchpdf.sh
+  260  chmod 0700 searchpdf.sh 
+  261  ./searchpdf.sh 
+  262  cp ./searchpdf.sh > mkdir mine
+  263  ls
+  264  cat mine
+  265  rm mine
+  266  ls
+  267  rm mkdir
+  268  ./searchpdf.sh echo > searchpdfcopy.md
+  269  cat searchpdfcopy.md 
+  270  locaterecent '/home/recruit/' 24
+  271  findrecent '/home/recruit/' 24
+  272  find . -mtime -1
+  273  find . -type f -mtime -1
+  274  ls
+  275  cd workspace/
+  276  nano my_bio.md
+  277  ls
+  278  nano my_bio.md
+  279  ls
+  280  mkdir my_files
+  281  mv my_bio.md my_files/
+  282  ls
+  283  clear
+  284  sudo apt update
+  285  y
+  286  apt list --upgradable
+  287  sudo apt upgrade
+  288  sudo apt install tree
+  289  cd ..
+  290  ls
+  291  cd Downloads/
+  292  ls
+  293  sudo dpkg -i code_1.43.0-1583783132_amd64.deb 
+  294  123456r
+  295  clear
+  296  cd ..
+  297  ls
+  298  cd linuxchallenge/
+  299  ls
+  300  cd ..
+  301  ls
+  302  cd /home/
+  303  cd ..
+  304  ls
+  305  cd /Downloads/
+  306  cd /home/
+  307  ls
+  308  cd recruit/
+  309  ls
+  310  mkdir linuxtask
+  311  cd linuxtask/
+  312  ls
+  313  nano task 1
+  314  ls
+  315  nano task1.sh
+  316  nano task2.sh
+  317  nano task3.sh
+  318  nano task4'1.sh
+  319  kill
+  320  ls
+  321  nano task41.sh
+  322  nano task42.sh
+  323  ls
+  324  nano task4.sh
+  325  cat task1.sh 
+  326  nano task51.sh
+  327  nano task52.sh
+  328  nano task53.sh
+  329  nano task61.sh
+  330  nano task62.sh
+  331  nano task63.sh
+  332  nano task7.sh
+  333  nano task6.sh
+  334  ls
+  335  rm task61.sh task62.sh task63.sh 
+  336  ls
+  337  cd .
+  338  cd -
+  339  cd ..
+  340  ls
+  341  find "*.pdf"
+  342  find .pdf
+  343  find *.pdf
+  344  locate *.pdf
+  345  cd linuxtask/
+  346  ls
+  347  nano task55.sh
+  348  nano task56.sh
+  349  locate pad_copy.md
+  350  ls
+  351  echo "# linuxtask" >> README.md
+  352  git init
+  353  git add README.md
+  354  git commit -m "first commit"
+  355  git remote add origin https://github.com/Ph1nd1/linuxtask.git
+  356  git push -u origin master
+  357  git remote add origin https://github.com/Ph1nd1/linuxtask.git
+  358  git push -u origin master
+  359  git init
+  360  git status
+  361  git add .
+  362  git status
+  363  ls
+  364  git push
+  365  ls -a
+  366  cd ..
+  367  ls
+  368  git clone https://github.com/Ph1nd1/linuxtask.git
+  369  mkdir Umuzi
+  370  ls
+  371  clear
+  372  git status
+  373  clear
+  374  ls
+  375  cd linuxtask/
+  376  git ststus
+  377  git status
+  378  git commit -m "uploading project"
+  379  git status
+  380  git push
+  381  ls
+  382  nano README.md 
+  383  git status
+  384  git add .
+  385  git status
+  386  git commit
+  387  git commit -a
+  388  git commit -m changes
+  389  git status
+  390  git push
+  391  clear
+  392  ls
+  393  cat task1.sh 
+  394  cat task51.sh 
+  395  nano phindi.sh
+  396  cat phindi.sh 
+  397  cd l
+  398  cd linuxtask/
+  399  cd Desktop/
+  400  nano sizwe.sh
+  401  ls
+  402  cat sizwe.sh 
+  403  nano sizwe.sh 
+  404  ls
+  405  mkdir git-basic-exercises
+  406  ls
+  407  cd git-basic-exercises/
+  408  ls
+  409  git init
+  410  ls
+  411  sudo updatedb
+  412  ls
+  413  git status
+  414  cd ..
+  415  ls
+  416  cd git-basic-exercises/
+  417  ls
+  418  touch README.md
+  419  ls
+  420  git status
+  421  git log
+  422  git add
+  423  git add .
+  424  git status
+  425  git rm --cached .
+  426  git status
+  427  git rm .
+  428  git rm README.md 
+  429  git status
+  430  -f
+  431  git rm -f
+  432  git status
+  433  git reset README.md
+  434  git status
+  435  ls
+  436  git log
+  437  git add .
+  438  git status
+  439  git commit -m initial commit
+  440  git commit -m 'initial commit'
+  441  git log
+  442  q
+  443  nano README.md 
+  444  cat README.md 
+  445  git status
+  446  git stats
+  447  git commit -m 'second commit'
+  448  git add .
+  449  git commit -m 'second commit'
+  450  git status
+  451  git log
+  452  nano README.md 
+  453  git add .
+  454  git commit -m 'third commit'
+  455  git status
+  456  git log
+  457  q
+  458  sudo apt install python-q-text-as-data
+  459  git log
+  460  q
+  461  git checkout
+  462  commit 5973c798fd2b29c0441b51744a44a767afb0a3f0
+  463  git checkout commit 5973c798fd2b29c0441b51744a44a767afb0a3f0
+  464  git checkout 5973c798fd2b29c0441b51744a44a767afb0a3f0
+  465  cat README.md 
+  466  git checkout 5b2568df11df8a284cb374327bc93c17c97efe7a
+  467  cat README.md 
+  468  git branch
+  469  git branch milkshake-flavours
+  470  git branch
+  471  git checkout -m milkshake-flavours 
+  472  git branch
+  473  git checkout -m master
+  474  git branch
+  475  git checkout -m milkshake-flavours 
+  476  git branch
+  477  nano milkshake-flavours.md
+  478  git status
+  479  git add .
+  480  git commit -m 'added initial flavours'
+  481  git log
+  482  git checkout -m master
+  483  git log
+  484  git branch history
+  485  git checkout -m history 
+  486  git log
+  487  history > history.txt
